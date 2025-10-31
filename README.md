@@ -49,6 +49,3 @@ Make sure you are using the right interpreter by
 - [ ] Raspberry Pi OS localization
 
 
-### Project Schematics
-![alt text](/images/image.png) 
-
