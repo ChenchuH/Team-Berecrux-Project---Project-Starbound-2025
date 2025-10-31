@@ -1,7 +1,4 @@
-# Team-Becrux-Project---Project-Starbound-2025
-                        
-![Logo](</images/logo.png>)                                
-
+# Team-Berecrux-Project---Project-Starbound-2025
 Team Becrux submission for CSULB Project Starbound, currently ran as a script with modules to be installed but will be containarized via Docker to run as a "one click" application on user devices 
 
 ### Getting Started
@@ -47,5 +44,3 @@ Make sure you are using the right interpreter by
 - [x] Scan for New/Unknown Devices/Alerts on a new device/Unanaswered Packets
 - [ ] Frontend UI, user should not have to replace anything within code or find there IPv4 address 
 - [ ] Raspberry Pi OS localization
-
-
